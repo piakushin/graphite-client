@@ -1,0 +1,6 @@
+[package]
+name = "graphite-client"
+version = "0.0.1"
+authors = ["Pavel Yakushin <jetpilot412@gmail.com>"]
+
+[dependencies]
